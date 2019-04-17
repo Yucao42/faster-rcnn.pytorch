@@ -1,6 +1,7 @@
 cython
 cffi
 opencv-python
+torchvision
 scipy
 msgpack
 easydict
