@@ -89,6 +89,7 @@ tools/shared/cwrap_common.py
 compile_commands.json
 *.egg-info/
 docs/source/scripts/activation_images/
+images/*
 
 ## General
 
